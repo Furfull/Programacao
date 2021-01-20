@@ -1,17 +1,11 @@
 
-
 b = input("INSIRA SUA SEQ DE ENTRADA: ")
 b = b.upper()
-def s(b):
-    c=0
-    for l in b:
-        if l == 'B':
-            c = c + 1
-            print (c)
 if len(x)=0:
     print 'A Seq é vazia'
 if len(x)!=0:
         k = "BDEFHIJKLMNOPQRSUVWXYZ"
     for i in range(0,len(k)):
         j =b.replace(k[i],"")
+        p = list(j)
         if j 
